@@ -1,0 +1,8 @@
+*.log
+.env
+kubeconfig*
+*.tfstate
+.terraform/
+.DS_Store
+node_modules/
+dist/
